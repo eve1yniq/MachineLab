@@ -2,13 +2,15 @@
 https://drive.google.com/file/d/1WZbr2b-47aLLh161QAMJCsxwvsG1rHnn/view?usp=drive_link
 ## 4 Projects:
 ### 1. Flower
+[Link here](https://github.com/ayag03/MachineLab/blob/main/homework_05Feb.md)
 ### 2. Aquatic Nature
+[Link here](https://github.com/npietrafesa/MachineLab/blob/main/assignments/homework_05Feb.md)
 ### 3. Birds, sun and moon
+[Link here](https://github.com/ehtishamoas/MachineLab/blob/main/homework_05Feb.md)
 ### 4. Volcano
 
 #### Concept:
-Flowers-moving/rotating->butterflies and bees flying around
-https://drive.google.com/file/d/1-Cyw4a25ReO0eR4FICS37g_fwORIpWWR/view?usp=drive_link
+When the volcano is sleeping, everything is calm and peaceful. Only the smoke is flowing. When the volcano is waking up-it erupts, the lava will come out from the crater. 
 
 #### Animation: 
 1) lava_1: up and down / Light up and turn down
