@@ -3,10 +3,16 @@
 What we achieved before spring break 👇🏻
 
 This is the first version. But two adjacent horses will go up and down at the same time.
-https://github.com/eve1yniq/MachineLab/assets/158068540/d6a1c94e-896a-4cc9-a77f-ab8ad258d7b9
+
+
+https://github.com/eve1yniq/MachineLab/assets/158068540/97b87711-6bee-47cf-93b5-6971e984f623
+
 
 Then we came to this horse2.0. With one servo, one horse will go up while the other one goes down.
-https://github.com/eve1yniq/MachineLab/assets/158068540/e505159f-11c4-42b7-b698-d1d89e63480e
+
+
+https://github.com/eve1yniq/MachineLab/assets/158068540/21398e1c-d37b-4f59-a9c8-f09169dd9bc3
+
 
 
 
