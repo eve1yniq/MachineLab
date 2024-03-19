@@ -1,6 +1,6 @@
 ## Documentation🎠 #05
 
-What we achieved before spring break 👇🏻
+What we achieved before the spring break 👇🏻
 
 This is the first version. But two adjacent horses will go up and down at the same time.
 
